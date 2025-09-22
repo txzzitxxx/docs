@@ -1,0 +1,13 @@
+#00/0000-0006/claude_code_sdk
+rm ~/.local/bin/ui-
+
+--hels ~/.local/bin/us
+echo 'print("hello world!")' | us run -
+
+us run --with rich example.py
+
+##import time
+from rich.progress import track
+
+for i in track(range(20), description="For example:"):
+    time.sleep(1.05)
