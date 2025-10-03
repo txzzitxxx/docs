@@ -1,4 +1,4 @@
----
+content/actions/how-tos/write-workflows/choose-what-workflows-do/index.md---
 title: Choosing what your workflow does
 shortTitle: Choose what workflows do
 intro: 'Workflows automate tasks in your software development lifecycle. Many tasks that you manually complete can be converted to a {% data variables.product.prodname_actions %} workflow.'
